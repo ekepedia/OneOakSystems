@@ -1,0 +1,20 @@
+[{"fullname": "name 1",
+ "email":    "email1@email.com",
+ "password": "pass",
+ "_id"     : "56527c5bce2712b073b30001"
+},
+{"fullname": "name 2",
+ "email":    "email2@email.com",
+ "password": "pass",
+ "_id"     : "56527c5bce2712b073b30002"
+},
+{"fullname": "name 3",
+ "email":    "email3@email.com",
+ "password": "pass",
+ "_id"     : "56527c5bce2712b073b30003"
+},
+{"fullname": "name 4",
+ "email":    "email4@email.com",
+ "password": "pass",
+ "_id"     : "56527c5bce2712b073b30004"
+}]

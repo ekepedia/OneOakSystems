@@ -1,0 +1,67 @@
+[{"houseId": "56528c5bce2712b073b30001",
+  "type": "homeowner",
+  "numberOfResidents": 4,
+  "residentType": "student",
+  "roomType": [{
+    "type": "small",
+    "quantity": 3
+  }],
+  "buildingType": "Dorm",
+  "unitType": [{
+    "unityType": "1br",
+    "numberofUnits": 4,
+    "people": 4
+  }],
+  "temperatureUnit": "Fahrenheit"},
+  {"houseId": "56528c5bce2712b073b30002",
+  "type": "homeowner",
+  "numberOfResidents": 4,
+  "residentType": "family",
+  "roomType": [{
+    "type": "medium",
+    "quantity": 2
+  },{
+    "type": "very small",
+    "quantity": 1
+  }],
+  "buildingType": "Family Home",
+  "unitType": [{
+    "unityType": "2br",
+    "numberofUnits": 2,
+    "people": 3
+  },{
+    "unityType": "1br",
+    "numberofUnits": 1,
+    "people": 1
+  }],
+  "temperatureUnit": "Fahrenheit"},
+  {"houseId": "56528c5bce2712b073b30003",
+  "type": "landlord",
+  "numberOfResidents": 1,
+  "residentType": "senior",
+  "roomType": [{
+    "type": "very large",
+    "quantity": 1
+  }],
+  "buildingType": "Family Home",
+  "unitType": [{
+    "unityType": "1br",
+    "numberofUnits": 1,
+    "people": 1
+  }],
+  "temperatureUnit": "Celsius"},
+  {"houseId": "56528c5bce2712b073b30004",
+  "type": "resident",
+  "numberOfResidents": 10,
+  "residentType": "student",
+  "roomType": [{
+    "type": "very small",
+    "quantity": 10
+  }],
+  "buildingType": "Dorm",
+  "unitType": [{
+    "unityType": "1br",
+    "numberofUnits": 10,
+    "people": 10
+  }],
+  "temperatureUnit": "Celsius"}]
