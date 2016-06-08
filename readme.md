@@ -6,14 +6,12 @@ Readme File
 @version 0.0.0
 @author 571555
 
-A video can be found at the following link:
-http://tinyurl.com/ohu96ob
-
 SET UP
 
 Got to config file to config the app. It is located in /config/config.js
 Set the following variables: 
 
+```javascript
 config.database = {
   name:           name of the database,
   password:       password for the user of the database,
@@ -24,6 +22,7 @@ config.database = {
   limitDefault:   limit default value,
   uri:            (optional) you may also give a uri or url to the database,
 }
+```
 
 config.web = {
   host:            host of the web serve,
